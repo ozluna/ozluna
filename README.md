@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ozluna
+- 👋 Hi, I’m Ozge
 - 👀 I’m interested in developing in Python, JS, CSS HTML  
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Python and JavaScript
